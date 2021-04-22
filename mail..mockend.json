@@ -1,0 +1,9 @@
+{
+  "Post": {
+    "mails": "mails[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+  }
+}
